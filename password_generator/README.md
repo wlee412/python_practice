@@ -6,6 +6,7 @@
 - **Hard Mode**: 문자 순서를 무작위로 섞어 보안성 향상
 
 ---
+## Example
 
 ```text
 Welcome to the PyPassword Generator!
