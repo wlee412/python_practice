@@ -30,6 +30,7 @@
 ## Example
 
 '''text
+
 What do you choose? Type 0 for rock, 1 for Paper or 2 for Scissors. 0
 conputer_choice:     
      _______
@@ -49,6 +50,7 @@ user choose:
 
 result is:
 You lose!
+
 '''
 
 ---
