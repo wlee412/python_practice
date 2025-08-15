@@ -26,6 +26,7 @@
 
 ## Example
 
+```text
 _ _ _ _ _ _ _
 Guess a letter: a
   +---+
@@ -49,6 +50,7 @@ Guess a letter: z
 =========
 ****************************5/6 LIVES LEFT****************************
 a letter does not exist!
+```
 
 ---
 
