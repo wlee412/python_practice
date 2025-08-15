@@ -24,6 +24,34 @@
 
 ---
 
+## Example
+
+_ _ _ _ _ _ _
+Guess a letter: a
+  +---+
+  |   |
+      |
+      |
+      |
+      |
+=========
+****************************6/6 LIVES LEFT****************************
+_ a _ a _ a _
+a letter you input is exist. :)
+
+Guess a letter: z
+  +---+
+  |   |
+  O   |
+      |
+      |
+      |
+=========
+****************************5/6 LIVES LEFT****************************
+a letter does not exist!
+
+---
+
 ## What I Learned
 
 random.choice()로 리스트에서 랜덤 값 선택
