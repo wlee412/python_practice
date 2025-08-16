@@ -30,7 +30,7 @@ def decrypt(original_text, shift_amount):
 def caesar(encode_or_decode, original_text, shift_amount):
     cipher_text = ""
     if encode_or_decode == "decode":
-        shift_amount *= -1
+        shift_amount *= -1 #decode 일때 음수로 반대 방향으로 shift 할수있게 음수로 전환
 
     for letter in original_text:
         shifted_position = alphabet.index(letter) + shift_amount
